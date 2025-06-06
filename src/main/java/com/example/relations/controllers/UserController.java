@@ -14,7 +14,7 @@ import java.util.List;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/api/User")
+@RequestMapping("/api/user")
 @Tag(name = "User API", description = "CRUD операции для пользователя")
 public class UserController {
 
