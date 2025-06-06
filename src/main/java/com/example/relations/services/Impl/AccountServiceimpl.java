@@ -1,10 +1,8 @@
 package com.example.relations.services.Impl;
 
 import com.example.relations.DTO.AccountDTO;
-import com.example.relations.DTO.HobbyDTO;
 import com.example.relations.entity.Account;
 import com.example.relations.repositories.AccountRepository;
-import com.example.relations.repositories.UserRepository;
 import com.example.relations.services.AccountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -1,8 +1,6 @@
 package com.example.relations.services;
 
-import com.example.relations.DTO.HobbyDTO;
 import com.example.relations.DTO.PassportDTO;
-import com.example.relations.entity.Passport;
 
 import java.util.List;
 

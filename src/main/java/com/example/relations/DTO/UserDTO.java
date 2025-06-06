@@ -1,13 +1,10 @@
 package com.example.relations.DTO;
 
-import com.example.relations.entity.Account;
-import com.example.relations.entity.Hobby;
 import com.example.relations.entity.Passport;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
-
 
 import java.util.List;
 import java.util.Set;
